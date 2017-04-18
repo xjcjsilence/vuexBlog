@@ -1,2 +1,0 @@
-# vuexBlog
-vuex blog demo
